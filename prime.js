@@ -5,4 +5,7 @@ for(let i=0;i<=num;i++){
         count++
     }
 }
+if(count == 2){
+    console.log("prime")
+}
 console.log(count)
